@@ -8,7 +8,10 @@ Sample experimental features of asset inventory app:
 4. Show No. of Interfaces found in the Hostname (Device).
 5. COOL FEATURE: App automatically identifies Hostname(Device) and add interface to interfaces list with respective to Device, so no need to specify city when adding an interface.
 6. The app will work perfectly fine and add hotels even if new devices get added in db.
-7. In Add Interfaces only required validation is added for demonstration purpose only.
+7. In Add Interfaces only required validation with IP Address is added for demonstration purpose only.
+8. Hostname/Device add functionality.
+9. Ability to edit and delete assets/interfaces functionality.
+10. Error on alerts if any of the service failed to call.
 
 ## For Server Installation
 
