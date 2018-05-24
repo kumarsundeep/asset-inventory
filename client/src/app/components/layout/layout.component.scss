@@ -1,3 +1,27 @@
+.add-device{
+  float: right;
+    margin-right: 20px;
+    font-size: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    background: #666;
+    border-color: #666;
+}
+.interface-action{
+  width: 150px;
+  margin-top: 20px;
+  margin-left: 25px;
+  padding-left: 15px;
+  border-left: 1px dotted #bbb;
+  text-align: center;
+    h5{
+      color: #666;
+      margin-bottom: 10px;
+    }
+}
+.del-desc-space{
+  margin-top: 10px;
+}
 .floating{
   &.btn{
     border-radius: 50%;

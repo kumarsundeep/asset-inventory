@@ -14,6 +14,11 @@
       "id": "3",
       "name": "www.google.co.in",
       "loopback": "400.168.0.1"
+    },
+    {
+      "loopback": "500.168.0.1",
+      "name": "www.microsoft.com",
+      "id": "rJ5-zzQy7"
     }
   ],
   "interfaces": [
@@ -79,6 +84,34 @@
       "deviceId": 3,
       "name": "GOOGLE-LAB-RTR-003",
       "description": "Some Interface description will go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim diam dui, vel consequat ligula sollicitudin nec. Donec lorem arcu, faucibus a semper hendrerit, convallis sodales ipsum."
+    },
+    {
+      "ipCode": "198.168.0.2",
+      "deviceId": "rJ5-zzQy7",
+      "name": "MS-LAB-RTR-001",
+      "description": "Some Interface description will go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim diam dui, vel consequat ligula sollicitudin nec. Donec lorem arcu, faucibus a semper hendrerit, convallis sodales ipsum.",
+      "id": 3334
+    },
+    {
+      "ipCode": "192.168.23.3",
+      "deviceId": "rJ5-zzQy7",
+      "name": "MS-LAB-RTR-002",
+      "description": "Some Interface description will go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim diam dui, vel consequat ligula sollicitudin nec. Donec lorem arcu, faucibus a semper hendrerit, convallis sodales ipsum.",
+      "id": 3335
+    },
+    {
+      "ipCode": "192.168.0.4",
+      "deviceId": "rJ5-zzQy7",
+      "name": "MS-LAB-RTR-003",
+      "description": "Some Interface description will go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim diam dui, vel consequat ligula sollicitudin nec. Donec lorem arcu, faucibus a semper hendrerit, convallis sodales ipsum.",
+      "id": 3336
+    },
+    {
+      "ipCode": "192.168.0.4",
+      "deviceId": "rJ5-zzQy7",
+      "name": "MS-LAB-RTR-004",
+      "description": "Some Interface description will go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim diam dui, vel consequat ligula sollicitudin nec. Donec lorem arcu, faucibus a semper hendrerit, convallis sodales ipsum.",
+      "id": 3337
     }
   ]
 }
